@@ -18,10 +18,32 @@ A visually rich Power BI dashboard designed to provide detailed insights into Sh
 
 ## 📂 Project Files
 
+### 🔧 Root Files
+
 | File Name                  | Description                                  |
 |---------------------------|----------------------------------------------|
 | `ShopNest_Dashboard.pbix` | Main Power BI dashboard file                 |
-| `Main Dashboard Visual.png` | Screenshot of the dashboard (see below)      |
+| `README.md`               | Project documentation                        |
+
+---
+
+### 📄 Docs
+
+| File Name                                  | Description                                  |
+|-------------------------------------------|----------------------------------------------|
+| `ShopNest Store Performance Dashboard Report.pdf` | A detailed project report in PDF format     |
+
+---
+
+### 🖼️ Images
+
+| File Name                     | Description                                 |
+|------------------------------|---------------------------------------------|
+| `Main Dashboad Visual.png`   | Overview of the main dashboard              |
+| `Drillthrough of order details.png` | Drillthrough page for detailed order info |
+| `KPIs Visual.png`            | Visual focused on Key Performance Indicators |
+| `Month Wise Total Revenue.png` | Monthly total revenue chart               |
+| `State wise sales.png`       | State-wise performance map                  |
 
 ---
 
