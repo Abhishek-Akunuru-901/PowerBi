@@ -49,7 +49,7 @@ A visually rich Power BI dashboard designed to provide detailed insights into Sh
 
 ## 🖼️ Dashboard Preview
 
-![ShopNest Dashboard](https://drive.google.com/file/d/1ueH8pKXVcNW1ZUZhDfyp7q3ngyAwp89B/view?usp=drive_link)
+![ShopNest Dashboard](https://github.com/Abhishek-Akunuru-901/PowerBi/blob/049481b2c2449abf4913b49195b1d02bdd113cc3/images/Main%20Dashboad%20Visual.png)
 
 ---
 
